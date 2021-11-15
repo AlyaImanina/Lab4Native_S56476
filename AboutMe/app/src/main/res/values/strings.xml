@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Nur Alya Imanina</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, Assalamualaikum my name is Alya Imanina.
+\n\nI am 23 years old and I am from Kemaman, Terengganu.
+\n\nI am now pursuing a bachelors degree in computer science
+        with a concentration in mobile computing at the University of Malaysia Terengganu.
+
+\n\nI am presently in my final year of study, and I am hopeful that I will graduate
+        on time and with honours.
+\nThen, in the future, Ill be able to acquire a good job.\n\n</string>
+</resources>
